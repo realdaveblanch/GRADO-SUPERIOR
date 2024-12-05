@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<centroEducativo xmlns:al="alumnos" xmlns:pr="profesores">
+    <al:alumnos>
+        <al:alumno id="1">
+            <al:nombre>Juan Pérez</al:nombre>
+            <al:edad>15</al:edad>
+            <al:equipo>Los Tigres</al:equipo>
+        </al:alumno>
+        <al:alumno id="2">
+            <al:nombre>María López</al:nombre>
+            <al:edad>14</al:edad>
+            <al:equipo>Los Halcones</al:equipo>
+        </al:alumno>
+    </al:alumnos>
+    <pr:profesores>
+        <pr:profesor id="1">
+            <pr:nombre>Pedro González</pr:nombre>
+            <pr:asignatura>Educación Física</pr:asignatura>
+            <pr:equipo>Los Tigres</pr:equipo>
+        </pr:profesor>
+        <pr:profesor id="2">
+            <pr:nombre>Ana Torres</pr:nombre>
+            <pr:asignatura>Matemáticas</pr:asignatura>
+            <pr:equipo>Los Halcones</pr:equipo>
+        </pr:profesor>
+    </pr:profesores>
+</centroEducativo>

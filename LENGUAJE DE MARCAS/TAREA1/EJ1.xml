@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<jugadores>
+    <jugador>
+        <nombre_completo>Lionel Messi</nombre_completo>
+        <fecha_nacimiento>24 de junio de 1987</fecha_nacimiento>
+        <nacionalidad>Argentina</nacionalidad>
+        <altura>170 cm</altura>
+        <peso>72 kg</peso>
+        
+        <estadisticas>
+            <partidos_jugados>800</partidos_jugados>
+            <goles_anotados>700</goles_anotados>
+            <asistencias>300</asistencias>
+            <tarjetas_amarillas>30</tarjetas_amarillas>
+            <tarjetas_rojas>1</tarjetas_rojas>
+        </estadisticas>
+        
+        <equipos>
+            <equipo>
+                <nombre>FC Barcelona</nombre>
+                <periodo>2004-2021</periodo>
+                <logros>
+                    <logro>Liga Española (10 veces)</logro>
+                    <logro>Liga de Campeones de la UEFA (4 veces)</logro>
+                </logros>
+            </equipo>
+            <equipo>
+                <nombre>Paris Saint-Germain</nombre>
+                <periodo>2021-2022</periodo>
+                <logros>
+                    <logro>Ligue 1 (1 vez)</logro>
+                </logros>
+            </equipo>
+            <equipo>
+                <nombre>Inter Miami</nombre>
+                <periodo>2023-actualidad</periodo>
+            </equipo>
+        </equipos>
+        
+        <posiciones>
+            <principal>Delantero</principal>
+            <secundarias>
+                <posicion>Extremo</posicion>
+                <posicion>Segundo Delantero</posicion>
+            </secundarias>
+        </posiciones>
+    </jugador>
+    
+
+    <jugador>
+        <nombre_completo>Cristiano Ronaldo</nombre_completo>
+        <fecha_nacimiento>5 de febrero de 1985</fecha_nacimiento>
+        <nacionalidad>Portuguesa</nacionalidad>
+        <altura>187 cm</altura>
+        <peso>83 kg</peso>
+        
+        <estadisticas>
+            <partidos_jugados>850</partidos_jugados>
+            <goles_anotados>750</goles_anotados>
+            <asistencias>200</asistencias>
+            <tarjetas_amarillas>20</tarjetas_amarillas>
+            <tarjetas_rojas>1</tarjetas_rojas>
+        </estadisticas>
+        
+        <equipos>
+            <equipo>
+                <nombre>Sporting Lisboa</nombre>
+                <periodo>2002-2003</periodo>
+                <logros>
+                    <logro>Primeira Liga (1 vez)</logro>
+                </logros>
+            </equipo>
+            <equipo>
+                <nombre>Manchester United</nombre>
+                <periodo>2003-2009</periodo>
+                <logros>
+                    <logro>Premier League (3 veces)</logro>
+                    <logro>Liga de Campeones de la UEFA (1 vez)</logro>
+                </logros>
+            </equipo>
+            <equipo>
+                <nombre>Real Madrid</nombre>
+                <periodo>2009-2018</periodo>
+                <logros>
+                    <logro>La Liga (2 veces)</logro>
+                    <logro>Liga de Campeones de la UEFA (4 veces)</logro>
+                    <logro>Copa del Rey (2 veces)</logro>
+                </logros>
+            </equipo>
+            <equipo>
+                <nombre>Juventus</nombre>
+                <periodo>2018-2021</periodo>
+                <logros>
+                    <logro>Serie A (2 veces)</logro>
+                    <logro>Supercopa Italiana (1 vez)</logro>
+                </logros>
+            </equipo>
+            <equipo>
+                <nombre>Manchester United</nombre>
+                <periodo>2021-2022</periodo>
+            </equipo>
+            <equipo>
+                <nombre>Al-Nassr</nombre>
+                <periodo>2022-actualidad</periodo>
+            </equipo>
+        </equipos>
+        
+        <posiciones>
+            <principal>Delantero</principal>
+            <secundarias>
+                <posicion>Extremo</posicion>
+                <posicion>Segundo Delantero</posicion>
+            </secundarias>
+        </posiciones>
+    </jugador>
+</jugadores>

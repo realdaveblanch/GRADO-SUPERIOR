@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Peliculas>
+
+    <Pelicula IdPelicula="Id01">
+        <Nombre>Los otros</Nombre>
+        <NanoPremio>2001</NanoPremio>
+        <DirNo>D04</DirNo>
+        <DatosPelicula>
+            <Premios>
+                <TotalPremiosGoya>8</TotalPremiosGoya>
+                <MejorPelicula>si</MejorPelicula>
+                <MejorDirector>si</MejorDirector>
+            </Premios> 
+            <Cifras>
+                <Recaudacion>209900000</Recaudacion>
+                <CosteProduccion>17000000</CosteProduccion>
+                <NumeroEspectadores>24000000</NumeroEspectadores>
+            </Cifras> 
+            <ElencoPrincipal>
+                <Actor>Nicolás Pereda</Actor>
+                <Actriz>Nicole Kidman</Actriz>
+                <Actor>Christopher Eccleston</Actor>
+            </ElencoPrincipal> 
+        </DatosPelicula>
+    </Pelicula>
+
+
+    <Pelicula IdPelicula="Id02">
+        <Nombre>Mar adentro</Nombre>
+        <NanoPremio>2004</NanoPremio>
+        <DirNo>D04</DirNo>
+        <DatosPelicula>
+            <Premios>
+                <TotalPremiosGoya>14</TotalPremiosGoya>
+                <MejorPelicula>si</MejorPelicula>
+                <MejorDirector>si</MejorDirector>
+            </Premios> 
+            <Cifras>
+                <Recaudacion>43000000</Recaudacion>
+                <CosteProduccion>10000000</CosteProduccion>
+                <NumeroEspectadores>5000000</NumeroEspectadores>
+            </Cifras> 
+            <ElencoPrincipal>
+                <Actor>Javier Bardem</Actor>
+                <Actriz>Belén Rueda</Actriz>
+                <Actriz>Lola Dueñas</Actriz>
+            </ElencoPrincipal> 
+        </DatosPelicula>
+    </Pelicula>
+
+
+    <Pelicula IdPelicula="Id03">
+        <Nombre>Volver</Nombre>
+        <NanoPremio>2006</NanoPremio>
+        <DirNo>D01</DirNo>
+        <DatosPelicula>
+            <Premios>
+                <TotalPremiosGoya>5</TotalPremiosGoya>
+                <MejorPelicula>no</MejorPelicula>
+                <MejorDirector>si</MejorDirector>
+            </Premios> 
+            <Cifras>
+                <Recaudacion>85000000</Recaudacion>
+                <CosteProduccion>11000000</CosteProduccion>
+                <NumeroEspectadores>10000000</NumeroEspectadores>
+            </Cifras> 
+            <ElencoPrincipal>
+                <Actriz>Penélope Cruz</Actriz>
+                <Actriz>Carmen Maura</Actriz>
+                <Actriz>Lola Dueñas</Actriz>
+            </ElencoPrincipal> 
+        </DatosPelicula>
+    </Pelicula>
+
+
+    <Pelicula IdPelicula="Id04">
+        <Nombre>El orfanato</Nombre>
+        <NanoPremio>2007</NanoPremio>
+        <DirNo>D06</DirNo>
+        <DatosPelicula>
+            <Premios>
+                <TotalPremiosGoya>7</TotalPremiosGoya>
+                <MejorPelicula>no</MejorPelicula>
+                <MejorDirector>si</MejorDirector>
+            </Premios> 
+            <Cifras>
+                <Recaudacion>78000000</Recaudacion>
+                <CosteProduccion>4000000</CosteProduccion>
+                <NumeroEspectadores>8500000</NumeroEspectadores>
+            </Cifras> 
+            <ElencoPrincipal>
+                <Actriz>Belén Rueda</Actriz>
+                <Actor>Fernando Cayo</Actor>
+                <Actriz>Geraldine Chaplin</Actriz>
+            </ElencoPrincipal> 
+        </DatosPelicula>
+    </Pelicula>
+</Peliculas> 

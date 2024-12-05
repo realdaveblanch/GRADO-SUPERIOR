@@ -1,0 +1,13 @@
+La imágen no se puede visualizar, indica 404...
+
+Las acciones a realizar (teniendo en cuenta la descripci
+on de lo que se vería en la imágen):
+
+1. Obtener la semilla
+2. Cavar un agujero e introducir la semilla.
+3. Tapar con tierra el agujero.
+4. Regar el agujero con agua.
+
+Reflexión:
+Se indican los pasos a seguir para solucionar la necesidad de plantar un árbol, que tiene
+uan similitud con generar el algorítmo para generar un árbol.

@@ -1,0 +1,8 @@
+C:\Users\BlanchTrap>java --version
+java 23 2024-09-17
+Java(TM) SE Runtime Environment (build 23+37-2369)
+Java HotSpot(TM) 64-Bit Server VM (build 23+37-2369, mixed mode, sharing)
+
+La primera línea de la salida indica la versión de Java SDK
+La segunda indica la versión de Java SE 
+La tercera línea indica la versión de la máquina virtual
